@@ -12,6 +12,9 @@ AIArchive is an open-source project dedicated to collecting and sharing excellen
 - 2023 03.29 gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue [code](https://github.com/nomic-ai/gpt4all), [twitter](https://twitter.com/omarsar0/status/1640858425381855232)
 - 2023 03.27 EVA: Vision Foundation Model Fanatics from BAAI [code](https://github.com/baaivision/EVA)
 - 2023 03.29 LLaMA-Adapter:Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters [code](https://github.com/ZrrSkywalker/LLaMA-Adapter)
+- 2023 03.31 RoboPianist: A Benchmark for High-Dimensional Robot Control [code](https://github.com/google-research/robopianist), [paper](https://kzakka.com/robopianist/robopianist.pdf), [home](https://kzakka.com/robopianist/)
+- 2023 03.31 BloombergGPT: A Large Language Model for Finance [paper](https://arxiv.org/abs/2303.17564)
+- 2023 04.03 FastChat: The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" [code](https://github.com/lm-sys/FastChat)
 
 
 
