@@ -15,6 +15,9 @@ AIArchive is an open-source project dedicated to collecting and sharing excellen
 - 2023 03.31 RoboPianist: A Benchmark for High-Dimensional Robot Control [code](https://github.com/google-research/robopianist), [paper](https://kzakka.com/robopianist/robopianist.pdf), [home](https://kzakka.com/robopianist/)
 - 2023 03.31 BloombergGPT: A Large Language Model for Finance [paper](https://arxiv.org/abs/2303.17564)
 - 2023 04.03 FastChat: The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" [code](https://github.com/lm-sys/FastChat)
+- 2023 04.03 HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace [paper](https://arxiv.org/abs/2303.17580)
+- 2023 04.04 Baize is an open-source chatbot trained with ChatGPT self-chatting data [code](https://github.com/project-baize/baize), [paper](https://arxiv.org/abs/2304.01196)
+- 2023 04.04 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society [code](https://github.com/lightaime/camel)
 
 
 
@@ -27,3 +30,8 @@ AIArchive is an open-source project dedicated to collecting and sharing excellen
 - 2023 03.23 Video Editing using Image Diffusion [home](https://duyguceylan.github.io/pix2video.github.io/), [paper](https://arxiv.org/abs/2303.12688)
 - 2023 03.23 Editing 3D Scenes with Instructions [home](https://instruct-nerf2nerf.github.io/), [paper](https://arxiv.org/abs/2303.12789)
 - 2023 03.24 [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero), [twitter](https://twitter.com/_akhaliq/status/1639062868850266112), [paper](https://arxiv.org/abs/2303.13439)
+
+
+### Image to Text
+
+- 2023 03.27 Google, Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding [code](https://github.com/google-research/pix2struct), [paper](https://arxiv.org/abs/2210.03347)
