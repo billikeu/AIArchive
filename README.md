@@ -30,8 +30,21 @@ AIArchive is an open-source project dedicated to collecting and sharing excellen
 - 2023 03.23 Video Editing using Image Diffusion [home](https://duyguceylan.github.io/pix2video.github.io/), [paper](https://arxiv.org/abs/2303.12688)
 - 2023 03.23 Editing 3D Scenes with Instructions [home](https://instruct-nerf2nerf.github.io/), [paper](https://arxiv.org/abs/2303.12789)
 - 2023 03.24 [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero), [twitter](https://twitter.com/_akhaliq/status/1639062868850266112), [paper](https://arxiv.org/abs/2303.13439)
+- 20223 04.05 JARVIS, a system to connect LLMs with ML community [code](https://github.com/microsoft/JARVIS)
+- 2023 04.06 GeNVS: Generative Novel View Synthesis with
+3D-Aware Diffusion Models [code](https://github.com/NVlabs/genvs), [paper](https://arxiv.org/abs/2304.02602), [home](https://nvlabs.github.io/genvs/)
+
 
 
 ### Image to Text
 
 - 2023 03.27 Google, Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding [code](https://github.com/google-research/pix2struct), [paper](https://arxiv.org/abs/2210.03347)
+
+
+## video compression and video inpainting
+
+- 2023 04.06 HNeRV: A Hybrid Neural Representation for Videos (CVPR 2023) [code](https://github.com/haochen-rye/HNeRV), [paper](https://arxiv.org/abs/2304.02633), [home](https://haochen-rye.github.io/HNeRV/) [twitter](https://twitter.com/_akhaliq/status/1643815982283083777)
+
+
+## Segment
+- 2023 04.05 Segment Anything [code](https://github.com/facebookresearch/segment-anything), [project](https://segment-anything.com/), [dataset](https://segment-anything.com/dataset/index.html), [twitter](https://twitter.com/MetaAI/status/1643599800414380038), 
