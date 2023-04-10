@@ -21,7 +21,7 @@ AIArchive is an open-source project dedicated to collecting and sharing excellen
 
 
 
-### AIGC Text to Video(Image)
+### AIGC Text to Video(Image), Inpainting
 
 - 2021 12.20 Stable-Diffusion: High-Resolution Image Synthesis with Latent Diffusion Models [code](https://github.com/CompVis/stable-diffusion), [paper](https://ommer-lab.com/research/latent-diffusion-models/)
 - 2022 08.26 DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [code](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion), [paper](https://arxiv.org/abs/2208.12242)
@@ -37,6 +37,7 @@ AIArchive is an open-source project dedicated to collecting and sharing excellen
 - 2023 04.06 GeNVS: Generative Novel View Synthesis with
 3D-Aware Diffusion Models [code](https://github.com/NVlabs/genvs), [paper](https://arxiv.org/abs/2304.02602), [home](https://nvlabs.github.io/genvs/)
 - 2023 04.07 Zero-shot Generative Model Adaptation via Image-specific Prompt Learning [code](https://github.com/Picsart-AI-Research/IPL-Zero-Shot-Generative-Model-Adaptation), [paper](https://arxiv.org/abs/2304.03119), [twitter](https://twitter.com/_akhaliq/status/1644139215007932416)
+- 2023 04.07 Grounded-Segment-Anything: BLIP + GroundingDINO + Segment-Anything + Stable-Diffusion [code](https://github.com/IDEA-Research/Grounded-Segment-Anything)
 
 
 
