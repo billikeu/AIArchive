@@ -36,6 +36,7 @@ AIArchive is an open-source project dedicated to collecting and sharing excellen
 - 2023 04.05 JARVIS, a system to connect LLMs with ML community [code](https://github.com/microsoft/JARVIS)
 - 2023 04.06 GeNVS: Generative Novel View Synthesis with
 3D-Aware Diffusion Models [code](https://github.com/NVlabs/genvs), [paper](https://arxiv.org/abs/2304.02602), [home](https://nvlabs.github.io/genvs/)
+- 2023 04.06 HNeRV: A Hybrid Neural Representation for Videos (CVPR 2023) [code](https://github.com/haochen-rye/HNeRV), [paper](https://arxiv.org/abs/2304.02633), [home](https://haochen-rye.github.io/HNeRV/) [twitter](https://twitter.com/_akhaliq/status/1643815982283083777)
 - 2023 04.07 Zero-shot Generative Model Adaptation via Image-specific Prompt Learning [code](https://github.com/Picsart-AI-Research/IPL-Zero-Shot-Generative-Model-Adaptation), [paper](https://arxiv.org/abs/2304.03119), [twitter](https://twitter.com/_akhaliq/status/1644139215007932416)
 - 2023 04.07 Grounded-Segment-Anything: BLIP + GroundingDINO + Segment-Anything + Stable-Diffusion [code](https://github.com/IDEA-Research/Grounded-Segment-Anything)
 
@@ -44,11 +45,6 @@ AIArchive is an open-source project dedicated to collecting and sharing excellen
 ### Image to Text
 
 - 2023 03.27 Google, Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding [code](https://github.com/google-research/pix2struct), [paper](https://arxiv.org/abs/2210.03347)
-
-
-### video compression and video inpainting
-
-- 2023 04.06 HNeRV: A Hybrid Neural Representation for Videos (CVPR 2023) [code](https://github.com/haochen-rye/HNeRV), [paper](https://arxiv.org/abs/2304.02633), [home](https://haochen-rye.github.io/HNeRV/) [twitter](https://twitter.com/_akhaliq/status/1643815982283083777)
 
 
 ### Segment
