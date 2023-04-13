@@ -18,6 +18,7 @@ AIArchive is an open-source project dedicated to collecting and sharing excellen
 - 2023 04.03 HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace [paper](https://arxiv.org/abs/2303.17580)
 - 2023 04.04 Baize is an open-source chatbot trained with ChatGPT self-chatting data [code](https://github.com/project-baize/baize), [paper](https://arxiv.org/abs/2304.01196)
 - 2023 04.04 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society [code](https://github.com/lightaime/camel)
+- 2023 04.10 Auto-GPT: An Autonomous GPT-4 Experiment, [code](https://github.com/torantulino/auto-gpt), 
 
 
 
@@ -40,7 +41,6 @@ AIArchive is an open-source project dedicated to collecting and sharing excellen
 - 2023 04.06 HNeRV: A Hybrid Neural Representation for Videos (CVPR 2023) [code](https://github.com/haochen-rye/HNeRV), [paper](https://arxiv.org/abs/2304.02633), [home](https://haochen-rye.github.io/HNeRV/) [twitter](https://twitter.com/_akhaliq/status/1643815982283083777)
 - 2023 04.07 Zero-shot Generative Model Adaptation via Image-specific Prompt Learning [code](https://github.com/Picsart-AI-Research/IPL-Zero-Shot-Generative-Model-Adaptation), [paper](https://arxiv.org/abs/2304.03119), [twitter](https://twitter.com/_akhaliq/status/1644139215007932416)
 - 2023 04.07 Grounded-Segment-Anything: BLIP + GroundingDINO + Segment-Anything + Stable-Diffusion [code](https://github.com/IDEA-Research/Grounded-Segment-Anything)
-- 2023 04.10 Auto-GPT: An Autonomous GPT-4 Experiment, [code](https://github.com/torantulino/auto-gpt), 
 
 
 
