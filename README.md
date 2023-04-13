@@ -1,7 +1,7 @@
 # AIArchive
 AIArchive is an open-source project dedicated to collecting and sharing excellent open-source projects and solutions in the field of artificial intelligence. With AIArchive, you can easily browse, search, and discover various open-source projects in the field of AI, such as machine learning, natural language processing, computer vision, and more.
 
-### AIGC LLM
+### AGI LLM
 
 - 2023 03.13 ChatGLM-6B: An Open Bilingual Dialogue Language Model [code](https://github.com/THUDM/ChatGLM-6B)
 - 2023 03.14 llama.cpp: Inference of LLaMA model in pure C/C++ [code](https://github.com/ggerganov/llama.cpp)
