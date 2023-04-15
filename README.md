@@ -22,7 +22,7 @@ AIArchive is an open-source project dedicated to collecting and sharing excellen
 
 
 
-### AIGC Text to Video(Image), Inpainting
+### AIGC, Text(Image) to Video(Image), Inpainting
 
 - 2021 12.20 Stable-Diffusion: High-Resolution Image Synthesis with Latent Diffusion Models [code](https://github.com/CompVis/stable-diffusion), [paper](https://ommer-lab.com/research/latent-diffusion-models/)
 - 2022 08.26 DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [code](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion), [paper](https://arxiv.org/abs/2208.12242)
@@ -41,13 +41,21 @@ AIArchive is an open-source project dedicated to collecting and sharing excellen
 - 2023 04.06 HNeRV: A Hybrid Neural Representation for Videos (CVPR 2023) [code](https://github.com/haochen-rye/HNeRV), [paper](https://arxiv.org/abs/2304.02633), [home](https://haochen-rye.github.io/HNeRV/) [twitter](https://twitter.com/_akhaliq/status/1643815982283083777)
 - 2023 04.07 Zero-shot Generative Model Adaptation via Image-specific Prompt Learning [code](https://github.com/Picsart-AI-Research/IPL-Zero-Shot-Generative-Model-Adaptation), [paper](https://arxiv.org/abs/2304.03119), [twitter](https://twitter.com/_akhaliq/status/1644139215007932416)
 - 2023 04.07 Grounded-Segment-Anything: BLIP + GroundingDINO + Segment-Anything + Stable-Diffusion [code](https://github.com/IDEA-Research/Grounded-Segment-Anything)
+- 2023 04.12 DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion, [code](https://github.com/johannakarras/DreamPose), [paper](https://arxiv.org/abs/2304.06025), [home](https://grail.cs.washington.edu/projects/dreampose/)
+- 2023 04.13 Facebook AnimatedDrawings: A Method for Animating Children's Drawings of the Human Figure, [code](https://github.com/facebookresearch/AnimatedDrawings), [paper](https://arxiv.org/abs/2303.12741), [home](https://ai.facebook.com/blog/ai-dataset-animating-kids-drawings/), [twitter](https://twitter.com/MetaAI/status/1646530974879195137)
 
 
 
 ### Image to Text
 
 - 2023 03.27 Google, Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding [code](https://github.com/google-research/pix2struct), [paper](https://arxiv.org/abs/2210.03347)
+- 2023 04.12 ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation, [code](https://github.com/THUDM/ImageReward), [paper](https://arxiv.org/abs/2304.05977)
 
 
 ### Segment
 - 2023 04.05 Segment Anything [code](https://github.com/facebookresearch/segment-anything), [project](https://segment-anything.com/), [dataset](https://segment-anything.com/dataset/index.html), [twitter](https://twitter.com/MetaAI/status/1643599800414380038), 
+
+
+### Video(Image) Matting
+
+2023 04.13 Adaptive Human Matting for Dynamic Videos, [code](https://github.com/microsoft/AdaM), [paper](https://arxiv.org/abs/2304.06018)
